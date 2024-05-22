@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Unignore specific files
+!miw03
+!miw05
